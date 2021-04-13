@@ -25,7 +25,7 @@ The columns in the data are described as follows:
 | 1 | Application/Permit Number  | The tracking number used to refer to this application or permit record in various Seattle DCI tracking systems. |
 | 2 | Permit Type  | Type of activity covered by the permit. |
 | 3 | Address | Street address of the work site. |
-| 4 | Description | Brief description of the work that will be done under this permit. This is subject to change prior to issuance of the permit, but generally more stable if an issue date exists. Very long descriptions have been truncated. 5 Action Type Subclassification for type of work being proposed. Valid choices will vary depending on the permit type. |
+| 4 | Description | Brief description of the work that will be done under this permit. This is subject to change prior to issuance of the permit, but generally more stable if an issue date exists. Very long descriptions have been truncated.|
 | 5 | Action Type | Subclassification for type of work being proposed. Valid choices will vary depending on the permit type. |
 | 6 | Work Type | An indicator of the complexity of the project proposed. Easier projects can be issued without plan review: more complex projects generally require plan submittal and review. |
 | 7 | Applicant Name | The name of the person or company listed on the application as the "primary applicant". This may be the property owner, contractor, design professional, or other type of agent. |
