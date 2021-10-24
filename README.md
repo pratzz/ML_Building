@@ -1,5 +1,4 @@
 # ML_Building
-This was part of a hiring tests I attempted. 
 Predict the Building Permission Category 
 
 ## Problem Description
